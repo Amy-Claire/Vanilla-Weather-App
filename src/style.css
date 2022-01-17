@@ -15,6 +15,7 @@ h1 {
 ul {
   margin: 0;
   padding: 0;
+  margin-bottom: 10px;
 }
 
 li {
@@ -26,6 +27,7 @@ li {
   text-align: left;
   margin: 0;
   padding: 0;
+  text-transform: capitalize;
 }
 
 .weather-app-wrapper {
